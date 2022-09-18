@@ -10,11 +10,13 @@
   },
   "dependencies": {
     "@material-ui/core": "^4.12.4",
+    "@unform/web": "^2.1.6",
     "axios": "^0.27.2",
     "material-ui": "^0.20.2",
     "next": "12.2.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "unform": "^1.2.3"
   },
   "devDependencies": {
     "@types/node": "18.0.6",
